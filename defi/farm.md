@@ -1,7 +1,7 @@
 ---
-description: It will have pools for certain token pairs, with $SCENT.
+description: Coming soon
 ---
 
-# Farm
+# Staking
 
-Coming soon.
+Users will be able to stake $SCENT tokens to get rewards.

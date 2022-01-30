@@ -1,9 +1,7 @@
 ---
-description: >-
-  Active players can get badges from the platform and each badge will be an
-  unique NFT with price.
+description: Coming soon
 ---
 
 # Badges
 
-Coming soon.
+Active players can get badges from the platform and each badge will be a unique NFT with price.

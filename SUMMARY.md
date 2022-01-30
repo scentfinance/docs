@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is scent finance](README.md)
+* [What is Scent Finance](README.md)
 * [$SCENT Tokenomics](usdscent-tokenomics.md)
 * [AirDrop](airdrop.md)
 
@@ -15,7 +15,7 @@
 
 ## DeFi
 
-* [Farm](defi/farm.md)
+* [Staking](defi/farm.md)
 
 ## FAQ
 
