@@ -1,7 +1,7 @@
 ---
-description: We will create battle field NFTs.
+description: Coming soon
 ---
 
 # Battle Fields
 
-Coming soon.
+We will create NFT collectibles for battle field.
